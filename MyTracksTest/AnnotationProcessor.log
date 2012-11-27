@@ -1,0 +1,192 @@
+2012-9-4 15:49:56 - NOTE : Start Processing Annotations
+2012-9-4 15:49:56 - NOTE : Processing [protected void setUp() throws java.lang.Exception, public void testCreateTrack() , public void testUploadWaypoints_onePoint() , public void testStartRecording() , public void testUploadAllTrackPoints_success() , public void testStopRecording() , protected void setUp() throws java.lang.Exception, public void testUploadAllTrackPoints_uploadLastMarkerFailed() , private void setupChooseMapActivityMock() , protected void setUp() throws java.lang.Exception, protected void setUp() throws java.lang.Exception, public void testUploadWaypoints() throws org.xmlpull.v1.XmlPullParserException, private void initialTrackPathDescriptorMock() , public void testUploadWaypoints_nullCursor() , public void testCreateWaypoint() , public void testCreateContentValues_track() , protected void setUp() throws java.lang.Exception, public void testUploadAllTrackPoints_uploadFirstMarkerFailed() , protected void setUp() throws java.lang.Exception, public void testCreateLocation() , public void testUploadAllTrackPoints_prepareAndUploadPointsFailed() ]
+2012-9-4 15:49:56 - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.MyTracksProviderUtils
+2012-9-4 15:49:56 - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.DataSource
+2012-9-4 15:49:56 - ERROR : Could not find com.google.android.apps.mytracks.content.DataSource
+2012-9-4 15:49:56 - NOTE : Known Classpath: 
+2012-9-4 15:49:56 - NOTE : file:/E:/open/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+2012-9-4 15:49:56 - NOTE : file:/E:/open/mytracks/MyTracksLib/bin/mytrackslib.jar
+2012-9-4 15:49:56 - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.TrackDataListener
+2012-9-4 15:49:56 - ERROR : Could not find com.google.android.apps.mytracks.content.TrackDataListener
+2012-9-4 15:49:56 - NOTE : Known Classpath: 
+2012-9-4 15:49:56 - NOTE : file:/E:/open/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+2012-9-4 15:49:56 - NOTE : file:/E:/open/mytracks/MyTracksLib/bin/mytrackslib.jar
+2012-9-4 15:49:56 - NOTE : Adding Class to Mocking List: android.database.Cursor
+2012-9-4 15:49:56 - ERROR : Could not find android.database.Cursor
+2012-9-4 15:49:56 - NOTE : Known Classpath: 
+2012-9-4 15:49:56 - NOTE : file:/E:/open/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+2012-9-4 15:49:56 - NOTE : file:/E:/open/mytracks/MyTracksLib/bin/mytrackslib.jar
+2012-9-4 15:49:56 - NOTE : Adding Class to Mocking List: android.database.Cursor
+2012-9-4 15:49:56 - ERROR : Could not find android.database.Cursor
+2012-9-4 15:49:56 - NOTE : Known Classpath: 
+2012-9-4 15:49:56 - NOTE : file:/E:/open/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+2012-9-4 15:49:56 - NOTE : file:/E:/open/mytracks/MyTracksLib/bin/mytrackslib.jar
+2012-9-4 15:49:56 - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.services.ITrackRecordingService
+2012-9-4 15:50:07 - NOTE : Start Processing Annotations
+2012-9-4 15:50:07 - NOTE : Processing [public void testStartRecording() , protected void setUp() throws java.lang.Exception, protected void setUp() throws java.lang.Exception, public void testUploadAllTrackPoints_prepareAndUploadPointsFailed() , public void testUploadAllTrackPoints_uploadFirstMarkerFailed() , public void testStopRecording() , public void testCreateLocation() , public void testUploadWaypoints_onePoint() , private void initialTrackPathDescriptorMock() , protected void setUp() throws java.lang.Exception, public void testUploadAllTrackPoints_success() , protected void setUp() throws java.lang.Exception, protected void setUp() throws java.lang.Exception, protected void setUp() throws java.lang.Exception, public void testUploadAllTrackPoints_uploadLastMarkerFailed() , public void testUploadWaypoints() throws org.xmlpull.v1.XmlPullParserException, public void testCreateWaypoint() , public void testUploadWaypoints_nullCursor() , public void testCreateTrack() , public void testCreateContentValues_track() , private void setupChooseMapActivityMock() ]
+2012-9-4 15:50:07 - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.services.ITrackRecordingService
+2012-9-4 15:51:17 - NOTE : Start Processing Annotations
+2012-9-4 15:51:17 - NOTE : Processing [protected void setUp() throws java.lang.Exception, public void testUploadAllTrackPoints_uploadFirstMarkerFailed() , public void testUploadWaypoints() throws org.xmlpull.v1.XmlPullParserException, protected void setUp() throws java.lang.Exception, public void testUploadAllTrackPoints_uploadLastMarkerFailed() , public void testUploadAllTrackPoints_prepareAndUploadPointsFailed() , public void testCreateContentValues_track() , protected void setUp() throws java.lang.Exception, protected void setUp() throws java.lang.Exception, protected void setUp() throws java.lang.Exception, public void testStartRecording() , public void testUploadAllTrackPoints_success() , public void testUploadWaypoints_onePoint() , public void testCreateLocation() , public void testCreateWaypoint() , private void initialTrackPathDescriptorMock() , public void testCreateTrack() , public void testUploadWaypoints_nullCursor() , protected void setUp() throws java.lang.Exception, private void setupChooseMapActivityMock() , public void testStopRecording() ]
+2012-9-4 15:51:17 - NOTE : Adding Class to Mocking List: java.io.File
+2012-9-4 15:51:17 - NOTE : Adding Class to Mocking List: android.database.Cursor
+2012-9-4 15:51:17 - ERROR : Could not find android.database.Cursor
+2012-9-4 15:51:17 - NOTE : Known Classpath: 
+2012-9-4 15:51:17 - NOTE : file:/E:/open/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+2012-9-4 15:51:17 - NOTE : file:/E:/open/mytracks/MyTracksLib/bin/mytrackslib.jar
+2012-9-4 15:51:17 - NOTE : Adding Class to Mocking List: android.database.Cursor
+2012-9-4 15:51:17 - ERROR : Could not find android.database.Cursor
+2012-9-4 15:51:17 - NOTE : Known Classpath: 
+2012-9-4 15:51:17 - NOTE : file:/E:/open/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+2012-9-4 15:51:17 - NOTE : file:/E:/open/mytracks/MyTracksLib/bin/mytrackslib.jar
+2012-9-4 15:51:17 - NOTE : Adding Class to Mocking List: android.graphics.Path
+2012-9-4 15:51:17 - ERROR : Could not find android.graphics.Path
+2012-9-4 15:51:17 - NOTE : Known Classpath: 
+2012-9-4 15:51:17 - NOTE : file:/E:/open/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+2012-9-4 15:51:17 - NOTE : file:/E:/open/mytracks/MyTracksLib/bin/mytrackslib.jar
+2012-9-4 15:51:17 - NOTE : Adding Class to Mocking List: android.database.Cursor
+2012-9-4 15:51:17 - ERROR : Could not find android.database.Cursor
+2012-9-4 15:51:17 - NOTE : Known Classpath: 
+2012-9-4 15:51:17 - NOTE : file:/E:/open/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+2012-9-4 15:51:17 - NOTE : file:/E:/open/mytracks/MyTracksLib/bin/mytrackslib.jar
+2012-9-4 15:51:17 - NOTE : Adding Class to Mocking List: android.database.Cursor
+2012-9-4 15:51:17 - ERROR : Could not find android.database.Cursor
+2012-9-4 15:51:17 - NOTE : Known Classpath: 
+2012-9-4 15:51:17 - NOTE : file:/E:/open/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+2012-9-4 15:51:17 - NOTE : file:/E:/open/mytracks/MyTracksLib/bin/mytrackslib.jar
+2012-9-4 15:51:17 - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.stats.TripStatistics
+2012-9-4 15:51:26 - NOTE : Start Processing Annotations
+2012-9-4 15:51:26 - NOTE : Processing [protected void setUp() throws java.lang.Exception, public void testUploadAllTrackPoints_uploadLastMarkerFailed() , protected void setUp() throws java.lang.Exception, protected void setUp() throws java.lang.Exception, protected void setUp() throws java.lang.Exception, public void testUploadAllTrackPoints_prepareAndUploadPointsFailed() , protected void setUp() throws java.lang.Exception, public void testCreateContentValues_track() , public void testCreateWaypoint() , public void testCreateTrack() , private void setupChooseMapActivityMock() , protected void setUp() throws java.lang.Exception, private void initialTrackPathDescriptorMock() , public void testUploadWaypoints() throws org.xmlpull.v1.XmlPullParserException, public void testCreateLocation() , public void testUploadAllTrackPoints_uploadFirstMarkerFailed() , public void testUploadWaypoints_nullCursor() , public void testUploadWaypoints_onePoint() , public void testUploadAllTrackPoints_success() , public void testStopRecording() , public void testStartRecording() ]
+2012-9-4 15:51:26 - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.io.maps.SendMapsActivity
+2012-9-4 15:51:26 - ERROR : Could not find com.google.android.apps.mytracks.io.maps.SendMapsActivity
+2012-9-4 15:51:26 - NOTE : Known Classpath: 
+2012-9-4 15:51:26 - NOTE : file:/E:/open/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+2012-9-4 15:51:26 - NOTE : file:/E:/open/mytracks/MyTracksLib/bin/mytrackslib.jar
+2012-9-4 15:51:26 - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.MyTracksProviderUtils
+2012-9-4 15:51:26 - NOTE : Adding Class to Mocking List: android.database.Cursor
+2012-9-4 15:51:26 - ERROR : Could not find android.database.Cursor
+2012-9-4 15:51:26 - NOTE : Known Classpath: 
+2012-9-4 15:51:26 - NOTE : file:/E:/open/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+2012-9-4 15:51:26 - NOTE : file:/E:/open/mytracks/MyTracksLib/bin/mytrackslib.jar
+2012-9-4 15:51:26 - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.services.tasks.AnnouncementPeriodicTask
+2012-9-4 15:51:26 - ERROR : Could not find com.google.android.apps.mytracks.services.tasks.AnnouncementPeriodicTask
+2012-9-4 15:51:26 - NOTE : Known Classpath: 
+2012-9-4 15:51:26 - NOTE : file:/E:/open/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+2012-9-4 15:51:26 - NOTE : file:/E:/open/mytracks/MyTracksLib/bin/mytrackslib.jar
+2012-9-4 15:51:26 - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.util.StringUtils
+2012-9-4 15:51:26 - ERROR : Could not find com.google.android.apps.mytracks.util.StringUtils
+2012-9-4 15:51:26 - NOTE : Known Classpath: 
+2012-9-4 15:51:26 - NOTE : file:/E:/open/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+2012-9-4 15:51:26 - NOTE : file:/E:/open/mytracks/MyTracksLib/bin/mytrackslib.jar
+2012-9-4 15:51:26 - NOTE : Adding Class to Mocking List: android.graphics.Path
+2012-9-4 15:51:26 - ERROR : Could not find android.graphics.Path
+2012-9-4 15:51:26 - NOTE : Known Classpath: 
+2012-9-4 15:51:26 - NOTE : file:/E:/open/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+2012-9-4 15:51:26 - NOTE : file:/E:/open/mytracks/MyTracksLib/bin/mytrackslib.jar
+2012-9-4 15:51:26 - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.MyTracksProviderUtils
+2012-9-4 15:51:26 - NOTE : Adding Class to Mocking List: android.database.Cursor
+2012-9-4 15:51:26 - ERROR : Could not find android.database.Cursor
+2012-9-4 15:51:26 - NOTE : Known Classpath: 
+2012-9-4 15:51:26 - NOTE : file:/E:/open/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+2012-9-4 15:51:26 - NOTE : file:/E:/open/mytracks/MyTracksLib/bin/mytrackslib.jar
+2012-9-4 15:51:26 - NOTE : Adding Class to Mocking List: java.io.File
+2012-9-4 15:51:26 - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.stats.TripStatistics
+2012-9-4 15:51:36 - NOTE : Start Processing Annotations
+2012-9-4 15:51:36 - NOTE : Processing [private void setupChooseMapActivityMock() , public void testUploadWaypoints_onePoint() , public void testStopRecording() , protected void setUp() throws java.lang.Exception, public void testUploadWaypoints_nullCursor() , public void testUploadAllTrackPoints_prepareAndUploadPointsFailed() , public void testStartRecording() , protected void setUp() throws java.lang.Exception, public void testCreateContentValues_track() , protected void setUp() throws java.lang.Exception, public void testCreateWaypoint() , public void testUploadAllTrackPoints_uploadFirstMarkerFailed() , protected void setUp() throws java.lang.Exception, public void testCreateLocation() , protected void setUp() throws java.lang.Exception, public void testUploadAllTrackPoints_uploadLastMarkerFailed() , public void testCreateTrack() , private void initialTrackPathDescriptorMock() , public void testUploadWaypoints() throws org.xmlpull.v1.XmlPullParserException, public void testUploadAllTrackPoints_success() , protected void setUp() throws java.lang.Exception]
+2012-9-4 15:51:36 - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.io.maps.ChooseMapActivity
+2012-9-4 15:51:36 - ERROR : Could not find com.google.android.apps.mytracks.io.maps.ChooseMapActivity
+2012-9-4 15:51:36 - NOTE : Known Classpath: 
+2012-9-4 15:51:36 - NOTE : file:/E:/open/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+2012-9-4 15:51:36 - NOTE : file:/E:/open/mytracks/MyTracksLib/bin/mytrackslib.jar
+2012-9-4 15:51:36 - NOTE : Adding Class to Mocking List: android.database.Cursor
+2012-9-4 15:51:36 - ERROR : Could not find android.database.Cursor
+2012-9-4 15:51:36 - NOTE : Known Classpath: 
+2012-9-4 15:51:36 - NOTE : file:/E:/open/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+2012-9-4 15:51:36 - NOTE : file:/E:/open/mytracks/MyTracksLib/bin/mytrackslib.jar
+2012-9-4 15:51:36 - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.services.ITrackRecordingService
+2012-9-4 15:54:37 - NOTE : Start Processing Annotations
+2012-9-4 15:54:37 - NOTE : Processing [protected void setUp() throws java.lang.Exception, public void testUploadAllTrackPoints_prepareAndUploadPointsFailed() , public void testStopRecording() , protected void setUp() throws java.lang.Exception, protected void setUp() throws java.lang.Exception, protected void setUp() throws java.lang.Exception, protected void setUp() throws java.lang.Exception, protected void setUp() throws java.lang.Exception, public void testUploadAllTrackPoints_uploadFirstMarkerFailed() , private void initialTrackPathDescriptorMock() , public void testUploadWaypoints_onePoint() , public void testCreateWaypoint() , public void testCreateLocation() , public void testUploadAllTrackPoints_success() , public void testUploadWaypoints_nullCursor() , private void setupChooseMapActivityMock() , public void testCreateContentValues_track() , public void testUploadAllTrackPoints_uploadLastMarkerFailed() , public void testUploadWaypoints() throws org.xmlpull.v1.XmlPullParserException, public void testStartRecording() , public void testCreateTrack() ]
+2012-9-4 15:54:37 - NOTE : Adding Class to Mocking List: android.graphics.Path
+2012-9-4 15:54:37 - ERROR : Could not find android.graphics.Path
+2012-9-4 15:54:37 - NOTE : Known Classpath: 
+2012-9-4 15:54:37 - NOTE : file:/E:/open/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+2012-9-4 15:54:37 - NOTE : file:/E:/open/mytracks/MyTracksLib/bin/mytrackslib.jar
+2012-9-4 15:54:37 - NOTE : Adding Class to Mocking List: android.database.Cursor
+2012-9-4 15:54:37 - ERROR : Could not find android.database.Cursor
+2012-9-4 15:54:37 - NOTE : Known Classpath: 
+2012-9-4 15:54:37 - NOTE : file:/E:/open/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+2012-9-4 15:54:37 - NOTE : file:/E:/open/mytracks/MyTracksLib/bin/mytrackslib.jar
+2012-9-4 15:54:37 - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.services.ITrackRecordingService
+2012-9-4 15:55:42 - NOTE : Start Processing Annotations
+2012-9-4 15:55:42 - NOTE : Processing [public void testStartRecording() , protected void setUp() throws java.lang.Exception, public void testUploadAllTrackPoints_success() , public void testUploadAllTrackPoints_uploadLastMarkerFailed() , public void testUploadWaypoints_nullCursor() , private void initialTrackPathDescriptorMock() , public void testCreateContentValues_track() , public void testUploadWaypoints() throws org.xmlpull.v1.XmlPullParserException, public void testUploadAllTrackPoints_uploadFirstMarkerFailed() , public void testCreateTrack() , public void testStopRecording() , protected void setUp() throws java.lang.Exception, public void testCreateWaypoint() , protected void setUp() throws java.lang.Exception, private void setupChooseMapActivityMock() , public void testUploadWaypoints_onePoint() , protected void setUp() throws java.lang.Exception, public void testUploadAllTrackPoints_prepareAndUploadPointsFailed() , protected void setUp() throws java.lang.Exception, protected void setUp() throws java.lang.Exception, public void testCreateLocation() ]
+2012-9-4 15:55:42 - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.services.ITrackRecordingService
+2012-9-4 15:55:52 - NOTE : Start Processing Annotations
+2012-9-4 15:55:52 - NOTE : Processing [public void testCreateLocation() , public void testUploadAllTrackPoints_uploadLastMarkerFailed() , public void testUploadWaypoints_onePoint() , public void testUploadWaypoints() throws org.xmlpull.v1.XmlPullParserException, public void testStartRecording() , public void testCreateTrack() , public void testUploadWaypoints_nullCursor() , public void testUploadAllTrackPoints_uploadFirstMarkerFailed() , public void testUploadAllTrackPoints_success() , protected void setUp() throws java.lang.Exception, protected void setUp() throws java.lang.Exception, public void testUploadAllTrackPoints_prepareAndUploadPointsFailed() , protected void setUp() throws java.lang.Exception, private void initialTrackPathDescriptorMock() , protected void setUp() throws java.lang.Exception, protected void setUp() throws java.lang.Exception, public void testCreateContentValues_track() , protected void setUp() throws java.lang.Exception, private void setupChooseMapActivityMock() , public void testCreateWaypoint() , public void testStopRecording() ]
+2012-9-4 15:55:52 - NOTE : Adding Class to Mocking List: android.database.Cursor
+2012-9-4 15:55:52 - ERROR : Could not find android.database.Cursor
+2012-9-4 15:55:52 - NOTE : Known Classpath: 
+2012-9-4 15:55:52 - NOTE : file:/E:/open/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+2012-9-4 15:55:52 - NOTE : file:/E:/open/mytracks/MyTracksLib/bin/mytrackslib.jar
+2012-9-4 15:55:52 - NOTE : Adding Class to Mocking List: android.database.Cursor
+2012-9-4 15:55:52 - ERROR : Could not find android.database.Cursor
+2012-9-4 15:55:52 - NOTE : Known Classpath: 
+2012-9-4 15:55:52 - NOTE : file:/E:/open/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+2012-9-4 15:55:52 - NOTE : file:/E:/open/mytracks/MyTracksLib/bin/mytrackslib.jar
+2012-9-4 15:55:52 - NOTE : Adding Class to Mocking List: android.database.Cursor
+2012-9-4 15:55:52 - ERROR : Could not find android.database.Cursor
+2012-9-4 15:55:52 - NOTE : Known Classpath: 
+2012-9-4 15:55:52 - NOTE : file:/E:/open/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+2012-9-4 15:55:52 - NOTE : file:/E:/open/mytracks/MyTracksLib/bin/mytrackslib.jar
+2012-9-4 15:55:52 - NOTE : Adding Class to Mocking List: android.database.Cursor
+2012-9-4 15:55:52 - ERROR : Could not find android.database.Cursor
+2012-9-4 15:55:52 - NOTE : Known Classpath: 
+2012-9-4 15:55:52 - NOTE : file:/E:/open/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+2012-9-4 15:55:52 - NOTE : file:/E:/open/mytracks/MyTracksLib/bin/mytrackslib.jar
+2012-9-4 15:55:52 - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.services.ITrackRecordingService
+2012-9-4 16:00:25 - NOTE : Start Processing Annotations
+2012-9-4 16:00:25 - NOTE : Processing [public void testUploadWaypoints_nullCursor() , public void testStartRecording() , public void testUploadAllTrackPoints_uploadLastMarkerFailed() , public void testUploadAllTrackPoints_prepareAndUploadPointsFailed() , protected void setUp() throws java.lang.Exception, public void testCreateTrack() , protected void setUp() throws java.lang.Exception, public void testUploadAllTrackPoints_success() , private void initialTrackPathDescriptorMock() , public void testCreateContentValues_track() , protected void setUp() throws java.lang.Exception, private void setupChooseMapActivityMock() , public void testUploadWaypoints_onePoint() , protected void setUp() throws java.lang.Exception, public void testUploadAllTrackPoints_uploadFirstMarkerFailed() , protected void setUp() throws java.lang.Exception, public void testCreateLocation() , public void testStopRecording() , public void testUploadWaypoints() throws org.xmlpull.v1.XmlPullParserException, protected void setUp() throws java.lang.Exception, public void testCreateWaypoint() ]
+2012-9-4 16:00:25 - NOTE : Adding Class to Mocking List: android.database.Cursor
+2012-9-4 16:00:25 - ERROR : Could not find android.database.Cursor
+2012-9-4 16:00:25 - NOTE : Known Classpath: 
+2012-9-4 16:00:25 - NOTE : file:/E:/open/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+2012-9-4 16:00:25 - NOTE : file:/E:/open/mytracks/MyTracksLib/bin/mytrackslib.jar
+2012-9-4 16:00:25 - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.services.ITrackRecordingService
+2012-9-4 16:00:33 - NOTE : Start Processing Annotations
+2012-9-4 16:00:33 - NOTE : Processing [public void testUploadWaypoints_nullCursor() , public void testUploadAllTrackPoints_success() , protected void setUp() throws java.lang.Exception, public void testCreateWaypoint() , public void testUploadWaypoints() throws org.xmlpull.v1.XmlPullParserException, public void testUploadAllTrackPoints_uploadLastMarkerFailed() , protected void setUp() throws java.lang.Exception, public void testCreateContentValues_track() , protected void setUp() throws java.lang.Exception, private void initialTrackPathDescriptorMock() , public void testStopRecording() , public void testUploadAllTrackPoints_prepareAndUploadPointsFailed() , protected void setUp() throws java.lang.Exception, protected void setUp() throws java.lang.Exception, private void setupChooseMapActivityMock() , public void testUploadAllTrackPoints_uploadFirstMarkerFailed() , public void testCreateTrack() , public void testCreateLocation() , public void testUploadWaypoints_onePoint() , public void testStartRecording() , protected void setUp() throws java.lang.Exception]
+2012-9-4 16:00:33 - NOTE : Adding Class to Mocking List: android.database.Cursor
+2012-9-4 16:00:33 - ERROR : Could not find android.database.Cursor
+2012-9-4 16:00:33 - NOTE : Known Classpath: 
+2012-9-4 16:00:33 - NOTE : file:/E:/open/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+2012-9-4 16:00:33 - NOTE : file:/E:/open/mytracks/MyTracksLib/bin/mytrackslib.jar
+2012-9-4 16:00:33 - NOTE : Adding Class to Mocking List: android.database.Cursor
+2012-9-4 16:00:33 - ERROR : Could not find android.database.Cursor
+2012-9-4 16:00:33 - NOTE : Known Classpath: 
+2012-9-4 16:00:33 - NOTE : file:/E:/open/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+2012-9-4 16:00:33 - NOTE : file:/E:/open/mytracks/MyTracksLib/bin/mytrackslib.jar
+2012-9-4 16:00:33 - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.MyTracksProviderUtils
+2012-9-4 16:00:33 - NOTE : Adding Class to Mocking List: android.database.Cursor
+2012-9-4 16:00:33 - ERROR : Could not find android.database.Cursor
+2012-9-4 16:00:33 - NOTE : Known Classpath: 
+2012-9-4 16:00:33 - NOTE : file:/E:/open/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+2012-9-4 16:00:33 - NOTE : file:/E:/open/mytracks/MyTracksLib/bin/mytrackslib.jar
+2012-9-4 16:00:33 - NOTE : Adding Class to Mocking List: android.database.Cursor
+2012-9-4 16:00:33 - ERROR : Could not find android.database.Cursor
+2012-9-4 16:00:33 - NOTE : Known Classpath: 
+2012-9-4 16:00:33 - NOTE : file:/E:/open/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+2012-9-4 16:00:33 - NOTE : file:/E:/open/mytracks/MyTracksLib/bin/mytrackslib.jar
+2012-9-4 16:00:33 - NOTE : Adding Class to Mocking List: android.database.Cursor
+2012-9-4 16:00:33 - ERROR : Could not find android.database.Cursor
+2012-9-4 16:00:33 - NOTE : Known Classpath: 
+2012-9-4 16:00:33 - NOTE : file:/E:/open/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+2012-9-4 16:00:33 - NOTE : file:/E:/open/mytracks/MyTracksLib/bin/mytrackslib.jar
+2012-9-4 16:00:33 - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.MyTracksProviderUtils
+2012-9-4 16:00:33 - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.DataSource
+2012-9-4 16:00:33 - ERROR : Could not find com.google.android.apps.mytracks.content.DataSource
+2012-9-4 16:00:33 - NOTE : Known Classpath: 
+2012-9-4 16:00:33 - NOTE : file:/E:/open/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+2012-9-4 16:00:33 - NOTE : file:/E:/open/mytracks/MyTracksLib/bin/mytrackslib.jar
+2012-9-4 16:00:33 - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.TrackDataListener
+2012-9-4 16:00:33 - ERROR : Could not find com.google.android.apps.mytracks.content.TrackDataListener
+2012-9-4 16:00:33 - NOTE : Known Classpath: 
+2012-9-4 16:00:33 - NOTE : file:/E:/open/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+2012-9-4 16:00:33 - NOTE : file:/E:/open/mytracks/MyTracksLib/bin/mytrackslib.jar
+2012-9-4 16:00:33 - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.stats.TripStatistics
