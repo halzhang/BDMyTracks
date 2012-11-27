@@ -1,6 +1,6 @@
 BDMyTracks
 =========
-GPS records
+GPS record only used by Baidu navi RD&QA
 
 Author
 ======
@@ -8,15 +8,14 @@ Google
 
 Modify
 ======
-Halzhang
+[Halzhang][1]
 
 License
 =======
-[WTFPL][1], although attribution would be nice.
-
-![Screenshot][2]
+[WTFPL][2], although attribution would be nice.
 
 Overview
 ========
 
 [1]: http://weibo.com/halzhang
+[2]:http://sam.zoy.org/wtfpl/
