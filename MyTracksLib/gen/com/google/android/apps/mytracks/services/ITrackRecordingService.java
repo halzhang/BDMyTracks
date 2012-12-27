@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: E:\\open\\mytracks\\MyTracksLib\\src\\com\\google\\android\\apps\\mytracks\\services\\ITrackRecordingService.aidl
+ * Original file: E:\\open\\BDMyTracks\\MyTracksLib\\src\\com\\google\\android\\apps\\mytracks\\services\\ITrackRecordingService.aidl
  */
 package com.google.android.apps.mytracks.services;
 /**
@@ -27,13 +27,13 @@ public static com.google.android.apps.mytracks.services.ITrackRecordingService a
 if ((obj==null)) {
 return null;
 }
-android.os.IInterface iin = (android.os.IInterface)obj.queryLocalInterface(DESCRIPTOR);
+android.os.IInterface iin = obj.queryLocalInterface(DESCRIPTOR);
 if (((iin!=null)&&(iin instanceof com.google.android.apps.mytracks.services.ITrackRecordingService))) {
 return ((com.google.android.apps.mytracks.services.ITrackRecordingService)iin);
 }
 return new com.google.android.apps.mytracks.services.ITrackRecordingService.Stub.Proxy(obj);
 }
-public android.os.IBinder asBinder()
+@Override public android.os.IBinder asBinder()
 {
 return this;
 }
@@ -154,7 +154,7 @@ Proxy(android.os.IBinder remote)
 {
 mRemote = remote;
 }
-public android.os.IBinder asBinder()
+@Override public android.os.IBinder asBinder()
 {
 return mRemote;
 }
@@ -167,7 +167,7 @@ return DESCRIPTOR;
    *
    * @return the track ID of the new track
    */
-public long startNewTrack() throws android.os.RemoteException
+@Override public long startNewTrack() throws android.os.RemoteException
 {
 android.os.Parcel _data = android.os.Parcel.obtain();
 android.os.Parcel _reply = android.os.Parcel.obtain();
@@ -187,7 +187,7 @@ return _result;
 /**
    * Checks and returns whether we're currently recording a track.
    */
-public boolean isRecording() throws android.os.RemoteException
+@Override public boolean isRecording() throws android.os.RemoteException
 {
 android.os.Parcel _data = android.os.Parcel.obtain();
 android.os.Parcel _reply = android.os.Parcel.obtain();
@@ -207,7 +207,7 @@ return _result;
 /**
    * Checks and returns whether the current recording is paused.
    */
-public boolean isPaused() throws android.os.RemoteException
+@Override public boolean isPaused() throws android.os.RemoteException
 {
 android.os.Parcel _data = android.os.Parcel.obtain();
 android.os.Parcel _reply = android.os.Parcel.obtain();
@@ -229,7 +229,7 @@ return _result;
    * is being recorded. This ID can then be used to read track data from the
    * content source.
    */
-public long getRecordingTrackId() throws android.os.RemoteException
+@Override public long getRecordingTrackId() throws android.os.RemoteException
 {
 android.os.Parcel _data = android.os.Parcel.obtain();
 android.os.Parcel _reply = android.os.Parcel.obtain();
@@ -252,7 +252,7 @@ return _result;
    * @param request Details for the waypoint to be inserted.
    * @return the unique ID of the inserted marker
    */
-public long insertWaypoint(com.google.android.apps.mytracks.content.WaypointCreationRequest request) throws android.os.RemoteException
+@Override public long insertWaypoint(com.google.android.apps.mytracks.content.WaypointCreationRequest request) throws android.os.RemoteException
 {
 android.os.Parcel _data = android.os.Parcel.obtain();
 android.os.Parcel _reply = android.os.Parcel.obtain();
@@ -285,7 +285,7 @@ return _result;
    *
    * @param loc the location to insert
    */
-public void recordLocation(android.location.Location loc) throws android.os.RemoteException
+@Override public void recordLocation(android.location.Location loc) throws android.os.RemoteException
 {
 android.os.Parcel _data = android.os.Parcel.obtain();
 android.os.Parcel _reply = android.os.Parcel.obtain();
@@ -309,7 +309,7 @@ _data.recycle();
 /**
     * Pauses the current track recording.
     */
-public void pauseCurrentTrack() throws android.os.RemoteException
+@Override public void pauseCurrentTrack() throws android.os.RemoteException
 {
 android.os.Parcel _data = android.os.Parcel.obtain();
 android.os.Parcel _reply = android.os.Parcel.obtain();
@@ -326,7 +326,7 @@ _data.recycle();
 /**
     * Resumes the current track recording.
     */
-public void resumeCurrentTrack() throws android.os.RemoteException
+@Override public void resumeCurrentTrack() throws android.os.RemoteException
 {
 android.os.Parcel _data = android.os.Parcel.obtain();
 android.os.Parcel _reply = android.os.Parcel.obtain();
@@ -343,7 +343,7 @@ _data.recycle();
 /**
    * Stops recording the current track.
    */
-public void endCurrentTrack() throws android.os.RemoteException
+@Override public void endCurrentTrack() throws android.os.RemoteException
 {
 android.os.Parcel _data = android.os.Parcel.obtain();
 android.os.Parcel _reply = android.os.Parcel.obtain();
@@ -363,7 +363,7 @@ _data.recycle();
    * Sensor.SensorDataSet object.
    * @return the current sensor data or null if there is none.
    */
-public byte[] getSensorData() throws android.os.RemoteException
+@Override public byte[] getSensorData() throws android.os.RemoteException
 {
 android.os.Parcel _data = android.os.Parcel.obtain();
 android.os.Parcel _reply = android.os.Parcel.obtain();
@@ -384,7 +384,7 @@ return _result;
    * The current state of the sensor manager.
    * The value is the value of a Sensor.SensorState enum.
    */
-public int getSensorState() throws android.os.RemoteException
+@Override public int getSensorState() throws android.os.RemoteException
 {
 android.os.Parcel _data = android.os.Parcel.obtain();
 android.os.Parcel _reply = android.os.Parcel.obtain();

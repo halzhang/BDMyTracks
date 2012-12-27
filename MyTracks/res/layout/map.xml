@@ -19,7 +19,7 @@ limitations under the License.
   android:layout_width="fill_parent" >
   <!-- apiKey corresponds to certificate md5: 81:DF:A2:63:53:C7:6B:1E:6C:24:62:D4:91:1C:36:3A -->
   <com.google.android.maps.MapView
-    android:apiKey="0KkzvbaJwB-8OlB6ew2qcq5qFXovhru-y4eaK8Q"
+    android:apiKey="0KkzvbaJwB-_pch4fnhHQFyI_UXcEOICES7pSsQ"
     android:clickable="true"
     android:focusable="true"
     android:focusableInTouchMode="true"

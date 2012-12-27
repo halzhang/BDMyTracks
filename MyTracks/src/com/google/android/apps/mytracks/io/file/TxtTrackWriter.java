@@ -33,12 +33,13 @@ public class TxtTrackWriter implements TrackFormatWriter {
     SHORT_FORMAT.setMaximumFractionDigits(6);
   }
 
-  private final Context context;
-  private Track track;
+  private final Context mContext;
+  private Track mTrack;
   private PrintWriter printWriter;
+  private long mLastTime;
 
   public TxtTrackWriter(Context context) {
-    this.context = context;
+    this.mContext = context;
   }
 
   @Override
@@ -48,7 +49,7 @@ public class TxtTrackWriter implements TrackFormatWriter {
 
   @Override
   public void prepare(Track track, OutputStream outputStream) {
-    this.track = track;
+    this.mTrack = track;
     printWriter = new PrintWriter(outputStream);
   }
 
@@ -156,6 +157,13 @@ public class TxtTrackWriter implements TrackFormatWriter {
     line.append(calendar.get(Calendar.HOUR_OF_DAY)).append(":");
     line.append(calendar.get(Calendar.MINUTE)).append(":");
     line.append(calendar.get(Calendar.SECOND));
+    if(mLastTime == 0){
+      line.append(",").append(0);
+    }else{
+      line.append(",").append(time - mLastTime);
+    }
+    mLastTime = time;
+    line.append("\r");
     Log.i(TAG, line.toString());
     printWriter.println(line.toString());
   }
