@@ -885,7 +885,7 @@ public class TrackRecordingService extends Service {
       Log.i(TAG, "¼ÇÂ¼µÄGPS×´Ì¬£º"+mLastStatus);
       final int status = mLastStatus;
       location = new MyTracksLocation(location, sensorDataSet, status);
-
+      location.setTime(System.currentTimeMillis());
       // Always insert the first segment location
       if (!currentSegmentHasLocation) {
         insertLocation(track, location, lastTrackLocation);
